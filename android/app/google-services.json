@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "439836632716",
+    "project_id": "roketin-intern",
+    "storage_bucket": "roketin-intern.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439836632716:android:4666d2c47a60578e1d7da9",
+        "android_client_info": {
+          "package_name": "com.example.roketin_intern"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439836632716-4jmag47qq4i77uh9igae24d7d05p28dq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi0qqBiPwTK0aeHUTDXsUj2eoD9UkoSvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439836632716-4jmag47qq4i77uh9igae24d7d05p28dq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
